@@ -4,7 +4,7 @@ Dieses Repository dient ausschließlich der Verteilung freigegebener Programmdat
 
 ## Aktuelle Version herunterladen
 
-Aktuelle Version: **4.1.0** – für macOS und Windows mit demselben Funktionsumfang.
+Aktuelle Version: **4.1.1** – für macOS und Windows mit demselben Funktionsumfang.
 
 - **macOS:** [Sprecherprotokoll-macOS.dmg](https://github.com/SaskiaNoga/Sprecherprotokoll-Downloads/releases/latest/download/Sprecherprotokoll-macOS.dmg) – öffnen und „Sprecherprotokoll vorbereiten“ auf „Programme“ ziehen
 - **Windows:** [Sprecherprotokoll-Windows.exe](https://github.com/SaskiaNoga/Sprecherprotokoll-Downloads/releases/latest/download/Sprecherprotokoll-Windows.exe) – eine einzelne Programmdatei ohne Installation: in einem festen Ordner speichern und per Doppelklick starten
@@ -21,7 +21,7 @@ Beim ersten Öffnen einer selbst heruntergeladenen Version warnt das Betriebssys
 
 Seit Version 4.0.0 übernimmt die Anwendung Ausschüsse, Besetzungen und Funktionen automatisch aus dem zentralen, digital unterschriebenen Datenbestand – ohne Anmeldung. Die Bearbeitung ist berechtigten Personen vorbehalten. E-Mail-Adressen sind nur verschlüsselt enthalten und mit einem vertraulich weitergegebenen Freischaltcode lesbar; den Code fragt seit Version 4.1.0 auch der Einrichtungsassistent ab.
 
-Neu in 4.1.0: Alle Verwaltungsfunktionen liegen in der „Zentralen Verwaltung“ mit Seitenleiste und Übersicht.
+Neu in 4.1.1 (Korrekturversion): Fenstertitel „Fraktion & Ausschüsse anzeigen“ bzw. „… bearbeiten“, vollständige Texte unter Windows, früheres Antragsverfahren vollständig entfernt. Seit 4.1.0 liegen alle Verwaltungsfunktionen in der „Zentralen Verwaltung“ mit Seitenleiste und Übersicht.
 
 ## Updates
 
